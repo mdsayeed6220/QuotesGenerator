@@ -5,8 +5,8 @@
 # App Hands On Renders
 
 <img src="./Renders1.png" alt="Kitten"
-	title="A cute kitten" width="300"  />
+	title="A cute kitten" width="275"  />
 <img src="./Renders2.png" alt="Kitten"
-	title="A cute kitten" width="300"  />
+	title="A cute kitten" width="275"  />
 <img src="./Renders3.png" alt="Kitten"
-	title="A cute kitten" width="300"  />
+	title="A cute kitten" width="275"  />
